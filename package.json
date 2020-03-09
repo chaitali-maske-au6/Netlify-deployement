@@ -1,0 +1,15 @@
+{
+  "name": "static-netify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel watch index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "chaitali",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
